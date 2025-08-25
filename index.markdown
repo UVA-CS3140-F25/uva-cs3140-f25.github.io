@@ -22,8 +22,8 @@ permalink: /
 * Time: Tuesdays and Thursdays @ 3:30pm - 4:45pm
 * Location: Wilson Hall 402
 ### Section 2
-  * Time: Tuesdays and Thursday @ 2:00pm - 3:15pm
-  * Location: Olsson Hall 120
+* Time: Tuesdays and Thursday @ 2:00pm - 3:15pm
+* Location: Olsson Hall 120
 
 ## Staff Information
 __Instructor:__ **Rich Nguyen**
