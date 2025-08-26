@@ -46,6 +46,17 @@ subject to change. For due dates, please refer to Canvas/Gradescope.
 
 ## Homework 4
 
+**Assignment**: TBD
+**Topics**:
+* Testing with Mockito
+* OO Design Principles
+* Refactoring/Rewriting code to fix design issues
+* UML Class Diagrams
+
+---
+
+## Homework 5
+
 **Topics**:
 * Web services
 * Parsing JSON

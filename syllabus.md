@@ -15,46 +15,34 @@ nav_order: 2
 
 # Basic Info
 CS 3140
-Spring 2025 Semester   
+Fall 2025 Semester   
 
-Course Website - [https://uva-cs3140-s25.github.io/](https://uva-cs3140-s25.github.io/)
-
-Course Logistics:
-[https://uva-cs3140-s25.github.io/](https://uva-cs3140-s25.github.io/)
-
+Course Website - [https://uva-cs3140-f25.github.io/](https://uva-cs3140-f25.github.io/)
 
 Online Textbook:
-[https://sde-course.com](https://sde-course.com)
+[https://sde-coursepack.github.io/](https://sde-coursepack.github.io/)
 
 Drive Folder:
 [https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=sharing](https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=sharing)
 
 
 ## Lecture Sections
-* Section 1: Tuesdays and Thursdays @ 11:00 AM-12:15 PM in Olsson Hall, Room 120
-* Section 2: Tuesdays and Thursdays @ 2:00 PM - 3:15 PM in Warner Hall, Room 209
-
+### Section 1
+* Time: Tuesdays and Thursdays @ 3:30pm - 4:45pm
+* Location: Wilson Hall 402
+### Section 2
+* Time: Tuesdays and Thursday @ 2:00pm - 3:15pm
+* Location: Olsson Hall 120
 
 ## Staff Information
 **Prof. Rich Nguyen**
-* Mondays and Wednesdays 11 am to 12 pm on [Zoom](
+* Mondays and Wednesdays 12:30 pm to 1:30 pm on [Zoom](
   https://virginia.zoom.us/j/93349649881?pwd=ysPPQT1WjeHGag0FNcRsyybYN6jd7p.1&from=addon
   )
-* Tuesdays and Thursdays 3:00 pm to 4:00 pm in Rice 202
+* Tuesdays and Thursdays 12:30 pm to 1:30 pm in Rice 202
 
 Email: [nn4pj@virginia.edu](mailto:nn4pj@virginia.edu)      
 Website: [http://www.cs.virginia.edu/~nn4pj/](http://www.cs.virginia.edu/~nn4pj/)
-
-
-**Prof. Derrick Stone**
-* Tuesdays 3:30 pm - 4:30 pm in Rice 209
-* Thursdays 3:30 pm - 4:30 pm in Rice 209
-* OR by appointment
-
-* Email: [djs6d@virginia.edu](mailto:djs6d@virginia.edu)
-
-* Website: [https://engineering.virginia.edu/faculty/derrick-stone](https://engineering.virginia.edu/faculty/derrick-stone)
-
 
 # Course Description
 
@@ -106,7 +94,7 @@ You should meet the following requirements to take this class:
 
 ## Online Coursepack
 
-Online Coursepack @ [https://sde-coursepack.github.io/](http://sde-course.com/)
+Online Coursepack @ [https://sde-coursepack.github.io/](https://sde-coursepack.github.io/)
 
 This will act as the textbook for this course. This is a free resource that is authored and maintained by Prof. McBurney. If you find typos/minor errors, you can submit fixes as pull-requests to https://github.com/sde-coursepack/sde-coursepack.github.io 
 
@@ -139,8 +127,8 @@ Canvas has links to all other course material.
 This is the website that you are currently on. Here you can find:
 
 - Syllabus (you're looking at it!)
-- [Course Schedule](https://uva-cs3140-s25.github.io/schedule.html) - if the schedule changes, this is kept up to date
-- [Office Hours Schedule](https://uva-cs3140-s25.github.io/office_hours.html)
+- [Course Schedule](https://uva-cs3140-f25.github.io/schedule.html) - if the schedule changes, this is kept up to date
+- [Office Hours Schedule](https://uva-cs3140-f25.github.io/office_hours.html)
 
 The schedule and assignments information page will include links to 
 the drive folder for Lecture Notes, Slides, Assignment Write-ups,
@@ -164,7 +152,7 @@ the Schedule page on the Course Website.
 
 ## Online Coursepack
 
-Online Coursepack @ [https://sde-coursepack.github.io/](http://sde-course.com/)
+Online Coursepack @ [https://sde-coursepack.github.io/](https://sde-coursepack.github.io/)
 
 There is no official textbook for the course that you need to purchase. Prof. McBurney
 is writing an "online textbook" at the URL above, which at the start of the semester is about ~70% completed
@@ -266,13 +254,12 @@ _There is **no** grading rounding_.
 
 
 Grading in this class will be based one:
-* Homework Assignments (7) - 70%  
-	* 10% each for Homework 1 through 5
-	* 20% for Homework 6
-* Quizzes (10) - 10%
-	* Must pass at least 8 quizzes for full credit
-* Mastery-based Assessments (4) - 20% (5% each) in lieu of exams
-* Optional final exam (retake up to 3 mastery-based assessments)
+* Homework Assignments (6) - 60%  
+	* 10% each for HW 1 through 5 
+    * HW6 as a Final Project 
+* Quizzes (14) - 10%
+	* The four lowest quiz grades will be dropped
+* Mastery-based Exams (3) - 30% (10% each)
 
 There might be some extra credit opportunities.
 
