@@ -9,19 +9,11 @@ The most up-to-date Office Hours Schedule:
 ## Professor Office Hours
 
 **Prof. Rich Nguyen**
-* Mondays 11 am to 12 pm on [Zoom](
-  https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
-  )
-* Tuesdays 3:00 pm to 4:00 pm in Rice 202
-* Wednesdays 11 am to 12 pm on [Zoom](
-  https://virginia.zoom.us/j/92343596331?pwd=UEJsc2twMFBlMldwRmMxQTJkSmJtZz09&from=addon
-  )
-* Thursdays 3:00 pm to 4:00 pm in Rice 202
+* Mondays 12:30 pm to 1:30 pm on [Zoom]()
+* Tuesdays 12:30 pm to 1:30 pm in Rice 202
+* Wednesdays 12:30 pm to 1:30 pm on [Zoom]()
+* Thursdays 12:30 pm to 1:30 pm in Rice 202
 
-**Prof. Derrick Stone**
-* Tuesdays 3:30 pm - 4:30 pm in Rice 209
-* Thursdays 3:30 pm - 4:30 pm in Rice 209
-* OR by Appointment
 
 ## TA Office Hours
 

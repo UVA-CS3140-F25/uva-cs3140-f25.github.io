@@ -15,7 +15,7 @@ permalink: /
 
 [Drive Folder](https://drive.google.com/drive/folders/15sPjuOqayPiDEXxRKWw2hZC-EZruJ_8w?usp=drive_link){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[Course Schedule](https://docs.google.com/spreadsheets/d/1bWyeYSqR-UoaJewcyOxEwPUMWH6kkrfqNP49bbkvu1U/edit?usp=sharing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Course Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vSgVRnrSaY3qyIfBUp1DV-og-PEv1sfQHgBOHxmmkJMVGiqiX1oVjRXAAR4y7eyKJmnySiFC_nL0T_D/pubhtml?gid=0&single=tru){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Lectures
 ### Section 1
