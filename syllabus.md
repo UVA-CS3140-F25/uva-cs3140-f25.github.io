@@ -352,7 +352,7 @@ Most assignments may be submitted up to one week late at a penalty of 5% per 24-
 (note that this penalty is subtractive, meaning if you score 85%, but it is one day late, 
 you will get 80%). All members of an assignment team will get the same late penalty, regardless of contribution (as all members of an assignment team get the same grade on the assignment). 
 
-**After 7 days, submissions will no longer be accepted.**
+**After 7 days, submissions will be accepted at 65% subtractive penalty.**
 
 Homework 6 will have a separate late policy - no late submissions for any reason. 
    1. This is in order to ensure:
@@ -466,13 +466,11 @@ In general, a second offense will *always* result in an F in the course and a re
 
 ## Quizzes
 
-There will be occasional quizzes in the class which are meant to ensure basic understanding of the course lecture material.
-Quizzes will be posted on Canvas and are multiple choice. Quizzes are graded in a pass/fail way. Any score >= 80% is considered a
-passing score will be treated as 100%, while any score less than 80% will not have the score changed. For example, if you get a 70% on the quiz, your score will be 70%. But if you get 80%, your score will be 100%.
-
+There will be quizzes in the class modules which are meant to ensure basic understanding of the course lecture material.
+Quizzes will be posted on Canvas and are multiple choice.
 **Quizzes can be taken up to 5 times** to achieve the target score. You will be able to see your total quiz score after submitting. However, you won't see specifically what you got right/wrong, or the correct answer until after the quiz closes.
 
-Your lowest two quizzes will be dropped.
+Your lowest four quizzes will be dropped.
 
 Quizzes are **individual assignments**. Collaboration/working together (even with assignment team members for homeworks) is strictly prohibited.
 If collaboration is discovered, it will result in all parties involved receiving a zero on their entire quiz grade for the course.
